@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @themtaysw
-- 👀 I’m boring life
-- 🌱 I’m
-- 💞️ I’m looking to corallobate on COol PrOJecTs
-- 📫 How to reach me? - 
+# NOPE
