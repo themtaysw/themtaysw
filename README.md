@@ -3,7 +3,9 @@
 this is my gh profile, you will hardly find anything public here but nice to see you here😁
 
 ![themtaysw's Stats](https://github-readme-stats.vercel.app/api?username=themtaysw&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 ![themtaysw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=themtaysw&theme=tokyonight&hide_border=true)
+
 ![themtaysw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=themtaysw&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## While you here, ⬇️
